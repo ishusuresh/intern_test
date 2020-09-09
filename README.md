@@ -11,10 +11,10 @@ Test case 1:</br>
      "2020-01-08": -2,
    };
    
-   Output:
+   Output:</br>
     { Sun: 2, Mon: -6, Tue: 2, Wed: 2, Thu: 4, Fri: 6, Sat: 8 }
     
-Test case 2:
+Test case 2:</br>
    input = {
      "2020-01-01": 4,
      "2020-01-02": 4,
@@ -25,10 +25,10 @@ Test case 2:
      "2020-01-08": -2,
    };
    
-   Output:
+   Output:</br>
     { Sun: 2, Mon: 2, Tue: 2, Wed: 2, Thu: 4, Fri: 6, Sat: 8 }
     
- Test case 3:
+ Test case 3:</br>
   input = {
      "2020-01-01": 4,
      "2020-01-03": 6,
@@ -39,5 +39,5 @@ Test case 2:
      "2020-01-08": -2,
    };
    
-   Output
+   Output</br>
   { Sun: 2, Mon: -6, Tue: 2, Wed: 2, Thu: 4, Fri: 6, Sat: 8 }
