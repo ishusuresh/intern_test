@@ -1,5 +1,5 @@
 # intern_test
-Test case 1:
+Test case 1: (<-- two spaces)
   input = {
      "2020-01-01": 4,
      "2020-01-02": 4,
